@@ -1,10 +1,10 @@
-# Unique_questions_based_on_ID
-Python script to pick unique questions to student based on their ID
+# Unique items picker based on ID 
+Python script to pick unique questions to students based on their ID
 
-__ Usage: python3 Unique_items_picker.py ID n_items __
+__Usage: python3 Unique_items_picker.py ID n_items__
 
-_ _ ID would be any unique ID for a student. _ _
-_ _ n_items would be the required number of the output items. _ _
+_ _ID would be any unique ID for a student._ _
+_ _n_items would be the required number of the output items._ _
 
 Choose the input list - pcap_list, websites_list and others are listed in the
 script. You can add your own list of items you want the script to pick unique
